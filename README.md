@@ -14,6 +14,6 @@ d. Un archivo que guarda los resultados de las pruebas unitarias
 
 3. En C++, las variables pueden referirse a datos o direcciones de memoria. En relación a esto, ¿qué son los punteros en la programación C++?
 a. Variables que almacenan un valor específico
-b. Variables que almacenan la dirección de otra variable
+b. Variables que almacenan la dirección de otra variable --- Correcta
 c. Funciones que apuntan a otras funciones
-d. Ninguna de las anteriores --- Correcta
+d. Ninguna de las anteriores
